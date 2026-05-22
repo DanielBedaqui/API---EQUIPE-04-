@@ -4,5 +4,15 @@
 
 O Aprendizado por Projeto Integrador caracteriza-se como uma metodologia de ensino e aprendizagem que busca integrar teoria e prática, possibilitando que os estudantes atuem de forma colaborativa na elaboração de projetos multidisciplinares. Essa abordagem estimula a aplicação dos conhecimentos adquiridos ao longo da formação na solução de problemas reais (RPBL), além de promover validação externa e uma mentalidade ágil. Também favorece o desenvolvimento de habilidades como autonomia, iniciativa, cooperação e orientação para resultados, especialmente quando associada ao uso de metodologias ágeis de gestão, como o SCRUM.
 
-# índice
+# Índice
+
+# Projeto (API)
+O projeto tem como finalidade desenvolver uma plataforma de Business Intelligence voltada à análise do cenário industrial de São José dos Campos, do Vale do Paraíba e do Litoral Norte, com base em dados públicos disponibilizados pela RAIS (Relação Anual de Informações Sociais). A proposta prevê a criação de um painel interativo acessível via web, capaz de integrar e processar informações relacionadas ao perfil produtivo da região, permitindo identificar os setores de maior relevância e fornecer suporte para futuras ações e decisões na gestão pública.
+
+# Equipe
+
+# Objetivo do projeto
+Desenvolver um dashboard interativo que integre dados da RAIS (Relação Anual de Informações Sociais) para analisar o ecossistema industrial e de serviços, com foco nas indústrias químicas e farmacêuticas de São José dos Campos, Vale do Paraíba e Litoral Norte. O sistema deverá apresentar indicadores que identifiquem os setores mais aquecidos, estáveis e com potencial de crescimento, auxiliando análises comparativas e a tomada de decisão na gestão industrial. O projeto também destaca a importância do setor farmacêutico para a economia regional, especialmente na geração de empregos, inovação e desenvolvimento na área da saúde.
+
+
 
