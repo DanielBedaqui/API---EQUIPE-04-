@@ -11,7 +11,7 @@ O projeto tem como finalidade desenvolver uma plataforma de Business Intelligenc
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 # Objetivo do projeto
 Desenvolver um dashboard interativo que integre dados da RAIS (Relação Anual de Informações Sociais) para analisar o ecossistema industrial e de serviços, com foco nas indústrias químicas e farmacêuticas de São José dos Campos, Vale do Paraíba e Litoral Norte. O sistema deverá apresentar indicadores que identifiquem os setores mais aquecidos, estáveis e com potencial de crescimento, auxiliando análises comparativas e a tomada de decisão na gestão industrial. O projeto também destaca a importância do setor farmacêutico para a economia regional, especialmente na geração de empregos, inovação e desenvolvimento na área da saúde.
 
