@@ -1,7 +1,4 @@
-<img width="100%" src"https://capsule-render.vercel.app/api?type=waving&height=300&color=1818&text=FarmaTech&fontColor=FFFF&animation=twinkling"/>
-
 # API | PharmaTech
-
 
 # Aprendizado por Projeto Integrado (API)
 
