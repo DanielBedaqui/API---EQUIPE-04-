@@ -9,7 +9,8 @@ O Aprendizado por Projeto Integrador caracteriza-se como uma metodologia de ensi
 * [Objetivo do Projeto](#Objetivo-do-Projeto)
 * [Equipe](#Equipe)
 * [Product Backlog](#Product-Backlog)
-* [Competências Desenvolvidas](Competências-Desenvolvidas)
+* [Competências Desenvolvidas](#Competências-Desenvolvidas)
+* [Tecnologias usadas](#Tecnologias-usadas)
 * [Registro das Sprints](#Registro-das-Sprints)
 
 # Projeto (API)
