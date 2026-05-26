@@ -6,6 +6,12 @@ O Aprendizado por Projeto Integrador caracteriza-se como uma metodologia de ensi
 
 # Índice
 
+* [Objetivo do Projeto](#Objetivo-do-Projeto)
+* [Equipe](#Equipe)
+* [Product Backlog](#Product-Backlog)
+* [Competências Desenvolvidas](Competências-Desenvolvidas)
+* [Registro das Sprints](#Registro-das-Sprints)
+
 # Projeto (API)
 O projeto tem como finalidade desenvolver uma plataforma de Business Intelligence voltada à análise do cenário industrial de São José dos Campos, do Vale do Paraíba e do Litoral Norte, com base em dados públicos disponibilizados pela RAIS (Relação Anual de Informações Sociais). A proposta prevê a criação de um painel interativo acessível via web, capaz de integrar e processar informações relacionadas ao perfil produtivo da região, permitindo identificar os setores de maior relevância e fornecer suporte para futuras ações e decisões na gestão pública.
 
