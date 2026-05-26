@@ -42,3 +42,9 @@ Desenvolver um dashboard interativo que integre dados da RAIS (Relação Anual d
 | 8 | Baixa | COMO TOMADOR DE DECISÕES DE POLÍTICAS PÚBLICAS, QUERO O REFINAMENTO DOS DADOS PARA MELHOR VISUALIZAÇÃO. | 3 |
 | 9 | Baixa | COMO TOMADOR DE DECISÕES DE POLÍTICAS PÚBLICAS, QUERO A CONSOLIDAÇÃO DE DADOS EM POWER B.I. | 3 |
 | 10 | Baixa | COMO TOMADOR DE DECISÕES DE POLÍTICAS PÚBLICAS, QUERO O FECHAMENTO DE DOCUMENTOS PARA APRESENTAÇÃO (FERRAMENTAS UTILIZADAS, MÉTODOS EMPREGADOS). | 3 |
+
+# Registro das Sprints
+
+| Sprint            | Previsão   | Status   | Histórico |
+|-------------------|------------|----------|-----------|
+| 01                | 04/05/2026 | Em Andamneto  | [MVP](MVP/Sprint1.md) |
