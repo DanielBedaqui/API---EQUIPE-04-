@@ -30,8 +30,12 @@
 - Taxa de desemprego por município;
 - Gênero;
 - CBO;
-- 
 
+## Resultado Esperado
+
+>Uma plataforma inteligente para:
+
+-
 
 
 
