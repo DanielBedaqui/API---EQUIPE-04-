@@ -35,12 +35,14 @@
 
 >Uma plataforma inteligente para:
 
-- Monitorar tendências regionais
-- Evolução mensal
-- Municípios com maior crescimento
-- Empregos gerados
-- Média salarial
+- Monitorar tendências regionais;
+- Evolução mensal;
+- Municípios com maior crescimento;
+- Empregos gerados;
+- Média salarial;
 - Novas empresas abertas
+
+  
 
 
 
