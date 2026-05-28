@@ -12,7 +12,7 @@
 > Desenvolvimento do projeto e extração de dados no RAIS
 
 - Extração dos dados brutos na plataforma;
-- Filtragem do banco de dados para maior especificação dos dados.
+- Filtragem do banco de dados para maior especificação dos valores.
 
  ## Escopo do MVP
 
