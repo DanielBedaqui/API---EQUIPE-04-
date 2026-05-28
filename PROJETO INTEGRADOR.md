@@ -54,4 +54,4 @@ Desenvolver um dashboard interativo que integre dados da RAIS (Relação Anual d
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 04/05/2026 | Em Andamento  | [MVP](/SPRINT1.md)
-|
+| 02                | 28/05/2026 | Em Andamento  | [MVP](/SPRINT2.md)
