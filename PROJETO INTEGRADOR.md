@@ -8,7 +8,7 @@ O Aprendizado por Projeto Integrador caracteriza-se como uma metodologia de ensi
 
 * [Objetivo do Projeto](#Objetivo-do-Projeto)
 * [Equipe](#Equipe)
-* [Backlogs e User´s stories](#Backlogs-e-User´s-stories)
+* [Backlogs e User´s stories](#Backlogs-e-User-story)
 * [Competências Desenvolvidas](#Competências-Desenvolvidas)
 * [Tecnologias usadas](#Tecnologias-usadas)
 * [Registro das Sprints](#Registro-das-Sprints)
@@ -35,7 +35,7 @@ Desenvolver um dashboard interativo que integre dados da RAIS (Relação Anual d
 * Microsoft Power BI
 * Python
 
-# Backlogs e User´s stories
+# Backlogs e User story
 
 | Rank | Prioridade | User Storie | Sprint |
 | ------ | ----------- | ----------- | ------- |
