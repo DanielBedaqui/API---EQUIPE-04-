@@ -12,3 +12,13 @@
 - [Scripts Python / GitHub Actions] ──> (Extração e Tratamento de Dados)
 - [Repositório GitHub] ──> (Armazenamento dos Dados Tratados)
 - [Power BI ] ──> (Dashboard para o Usuário Final)
+
+## Escopo do MVP
+
+- Criação do repositório público no GitHub com documentação (PROJETO INTEGRADOR.md);
+
+- Dashboard interativo com filtros por Cidade;
+
+- Filtragem por gênero e faixa etária.
+
+  ## Fontes de Dados 
