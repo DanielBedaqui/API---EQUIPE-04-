@@ -26,4 +26,4 @@
 
 ## Indicadores coletados
 - Densidade Farmacêutica
-- Market Share por Cidade ({Farmácias da Cidade X} / \text{Total da Região}) \times 100$
+- Market Share por Cidade (Farmácias da Cidade X Total da Região) X 100
