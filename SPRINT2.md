@@ -24,4 +24,6 @@
   ## Fontes de Dados 
 - Duas consultas originadas da base RAIS unificadas em uma extensão .CSV
 
-
+## Indicadores coletados
+- Densidade Farmacêutica
+- Market Share por Cidade ({Farmácias da Cidade X} / \text{Total da Região}) \times 100$
