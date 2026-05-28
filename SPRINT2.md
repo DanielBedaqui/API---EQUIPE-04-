@@ -9,5 +9,7 @@
 - Gerar dashboards estratégicos no Power BI.
 
 ## Arquitetura do MVP
-> Desenvolvimento do projeto e vizualização do dashboard voltado ao setor farmacêutico
+> [Scripts Python / GitHub Actions] ──> (Extração e Tratamento de Dados)]
+> [Repositório GitHub] ──> (Armazenamento dos Dados Tratados)
+> [Power BI] ──> (Dashboard para o Usuário Final)
 
