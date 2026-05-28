@@ -7,3 +7,7 @@
 - Revisão das informações geradas;
 - Detalhamento do foco principal do projeto;
 - Gerar dashboards estratégicos no Power BI.
+
+## Arquitetura do MVP
+> Desenvolvimento do projeto e vizualização do dashboard voltado ao setor farmacêutico
+
