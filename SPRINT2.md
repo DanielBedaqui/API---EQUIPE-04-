@@ -3,7 +3,7 @@
 ## Objetivo do MVP
 > Disponibilizar a primeira versão do banco de dados, possibilitando a visualização inicial dos principais indicadores essenciais.
 
-- Coletar dados econômicos públicos;
-- Identificar o crescimento do setor farmacêutico em Jacareí, São José dos Campos e Taubaté;
-- Organizar dados em banco estruturado;
+- Agrupamento dos dados por setores chaves;
+- Revisão das informações geradas;
+- Detalhamento do foco principal do projeto;
 - Gerar dashboards estratégicos no Power BI.
