@@ -42,6 +42,11 @@
 - Média salarial;
 - Novas empresas abertas.
 
+  ## Anexos
+
+<img width="1600" height="798" alt="WhatsApp Image 2026-05-26 at 22 19 07" src="https://github.com/user-attachments/assets/60b0d716-0781-455d-b484-993cc82c504f" />
+
+
   
 
   
