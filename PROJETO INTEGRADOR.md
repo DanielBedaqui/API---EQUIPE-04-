@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=400&color=025&text=PharmaTech&fontColor=FFFFFF&animation=twinkling"/>
+<div align="center">
+<img width="100%" align="center" alt="logo" src="https://github.com/user-attachments/assets/fafe98cc-e63b-4b97-b19c-afe0c80b7bd4" />
+</div>
 
 # Aprendizado por Projeto Integrado (API) #
 
