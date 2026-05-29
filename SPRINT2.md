@@ -35,4 +35,5 @@
 
   ## Anexos
   >Print do nosso Dashboard:
-<img width="1874" height="864" alt="Captura de tela 2026-05-28 210447" src="https://github.com/user-attachments/assets/f984f2a6-db05-46dd-b0ba-d9eaa5caddb1" />
+<img width="1353" height="741" alt="PRINT VISUALIZACAO" src="https://github.com/user-attachments/assets/801a228d-37d1-4c3a-b1f5-65a6aa5bcc47" />
+
