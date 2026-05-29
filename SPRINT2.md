@@ -34,5 +34,5 @@
 - Um Dashboard funcional publicado ou compartilhável que permita clicar em "Jacareí", por exemplo, e ver instantaneamente quais bairros possuem menos farmácias por habitante.
 
   ## Anexos
-  
+  >Print do nosso Dashboard
 <img width="1874" height="864" alt="Captura de tela 2026-05-28 210447" src="https://github.com/user-attachments/assets/f984f2a6-db05-46dd-b0ba-d9eaa5caddb1" />
