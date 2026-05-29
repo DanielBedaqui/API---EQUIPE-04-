@@ -35,5 +35,6 @@
 
   ## Anexos
   >Print do nosso Dashboard:
-<img width="1353" height="741" alt="PRINT VISUALIZACAO" src="https://github.com/user-attachments/assets/801a228d-37d1-4c3a-b1f5-65a6aa5bcc47" />
+<img width="1104" height="627" alt="novo layout" src="https://github.com/user-attachments/assets/019b04bc-ec7f-457e-ae9b-8167bee5f9dd" />
+
 
