@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=082&text=SPRINT-01&fontColor=FFFFFF&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=025&text=SPRINT-01&fontColor=FFFFFF&animation=twinkling"/>
 
 ## Objetivo do MVP
 > Disponibilizar a primeira versão do banco de dados, possibilitando a visualização inicial dos principais indicadores essenciais.
