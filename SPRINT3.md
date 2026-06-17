@@ -4,11 +4,8 @@
 >Otimizar a performance do dashboard e refinar os filtros macro e micro, garantindo uma análise cirúrgica, fluida e intuitiva do mercado farmacêutico regional.
 
 - Otimização do desempenho visual e de carregamento das medidas no Power BI;
-
 - Refinamento de filtros específicos (abordagem macro e micro);
-
 - Ajuste final do layout do dashboard para máxima usabilidade;
-
 - Atualização técnica e documentação do progresso no repositório [PROJETO INTEGRADOR](/PROJETOINTEGRADOR.md).
  
 # Arquitetura do MVP
@@ -26,7 +23,5 @@
 
 # Indicadores Coletados e Refinados
 - Densidade Farmacêutica Macro e Micro: Análise populacional por farmácia tanto na visão geral do Vale do Paraíba quanto isolada por bairros/zonas específicas;
-
 - Market Share Regional Otimizado: Divisão do mercado farmacêutico respondendo instantaneamente ao cruzamento de filtros avançados;
-
 - Índice de Saturação Local: Identificação visual rápida de microrregiões com alta ou baixa concentração de competidores.
