@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=400&color=025&text=SPRINT-02&fontColor=FFFFFF&animation=FADing"/>
 
-## Objetivo do MVP
+# Objetivo do MVP
 > Disponibilizar a primeira versão do dashboard e atualização do github, possibilitando a visualização inicial dos principais indicadores do setor farmacêutico no Vale do Paraíba.
 
 - Agrupamento dos dados por setores chaves;
@@ -8,12 +8,12 @@
 - Detalhamento do foco principal do projeto;
 - Gerar dashboards estratégicos no Power BI.
 
-## Arquitetura do MVP
+# Arquitetura do MVP
 - [Scripts Python / GitHub Actions] ──> (Extração e Tratamento de Dados)
 - [Repositório GitHub] ──> (Armazenamento dos Dados Tratados)
 - [Power BI ] ──> (Dashboard para o Usuário Final)
 
-## Escopo do MVP
+# Escopo do MVP
 
 - Criação do repositório público no GitHub com documentação (PROJETO INTEGRADOR.md);
 
@@ -21,19 +21,19 @@
 
 - Filtragem por gênero e faixa etária.
 
-## Fontes de Dados 
+# Fontes de Dados 
 - Duas consultas originadas da base RAIS unificadas em uma extensão .CSV.
 
-## Indicadores coletados
+# Indicadores coletados
 - Densidade Farmacêutica;
 - Market Share por Cidade (Farmácias da Cidade X Total da Região) X 100;
 - Crescimento de Aberturas.
 
-## Resultado Esperado
+# Resultado Esperado
 - Um repositório estruturado no GitHub;
 - Um Dashboard funcional publicado ou compartilhável que permita clicar em "Jacareí", por exemplo, e ver instantaneamente quais bairros possuem menos farmácias por habitante.
 
-  ## Anexos
+  # Anexos
   >Print do nosso Dashboard:
 <img width="1104" height="627" alt="novo layout" src="https://github.com/user-attachments/assets/019b04bc-ec7f-457e-ae9b-8167bee5f9dd" />
 
