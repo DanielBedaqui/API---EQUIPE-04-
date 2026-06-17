@@ -30,3 +30,7 @@
 - Um dashboard esteticamente refinado e com carregamento ágil, que permita ao usuário transitar sem travamentos de uma visão macro (ex: selecionar todo o "Vale do Paraíba" e ver os indicadores gerais) para uma visão micro (ex: detalhar uma área específica de "São José dos Campos" e enxergar a dinâmica de bairros vizinhos);
 
 - Código e documentação organizados no GitHub registrando as melhorias de performance e o layout final entregue.
+
+# Anexos
+>
+<img width="885" height="721" alt="BOTAO-LIMPA_FILTROS" src="https://github.com/user-attachments/assets/afe928d4-0622-4451-b51a-db34584fbbd9" />
