@@ -20,3 +20,13 @@
 - Redesenho e polimento do layout do dashboard, padronizando espaçamentos, cores e tipografia;]
 - Implementação da estrutura de filtros macro (visão geral por Região/Cidades) e filtros micro (visão detalhada por Bairros ou Subsetores farmacêuticos);
 - Atualização da documentação no GitHub detalhando a nova usabilidade dos filtros específicos.
+
+## Fontes de Dados
+- Base de dados estruturada a partir da RAIS (.CSV).
+
+## Indicadores Coletados e Refinados
+- Densidade Farmacêutica Macro e Micro: Análise populacional por farmácia tanto na visão geral do Vale do Paraíba quanto isolada por bairros/zonas específicas;
+
+- Market Share Regional Otimizado: Divisão do mercado farmacêutico respondendo instantaneamente ao cruzamento de filtros avançados;
+
+- Índice de Saturação Local: Identificação visual rápida de microrregiões com alta ou baixa concentração de competidores.
