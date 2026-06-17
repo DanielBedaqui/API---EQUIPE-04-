@@ -25,3 +25,8 @@
 - Densidade Farmacêutica Macro e Micro: Análise populacional por farmácia tanto na visão geral do Vale do Paraíba quanto isolada por bairros/zonas específicas;
 - Market Share Regional Otimizado: Divisão do mercado farmacêutico respondendo instantaneamente ao cruzamento de filtros avançados;
 - Índice de Saturação Local: Identificação visual rápida de microrregiões com alta ou baixa concentração de competidores.
+
+# Resultado Esperado
+- Um dashboard esteticamente refinado e com carregamento ágil, que permita ao usuário transitar sem travamentos de uma visão macro (ex: selecionar todo o "Vale do Paraíba" e ver os indicadores gerais) para uma visão micro (ex: detalhar uma área específica de "São José dos Campos" e enxergar a dinâmica de bairros vizinhos);
+
+- Código e documentação organizados no GitHub registrando as melhorias de performance e o layout final entregue.
