@@ -14,3 +14,5 @@
 ## Arquitetura da Sprint
  - [Power BI: DAX Studio / Performance Analyzer] ──> (Otimização e Filtros Avançados)
  - [Power BI Service / GitHub] ──> (Entrega do Dashboard Fluido + Documentação)
+
+   
