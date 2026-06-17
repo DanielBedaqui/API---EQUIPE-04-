@@ -9,5 +9,5 @@
 
 - Ajuste final do layout do dashboard para máxima usabilidade;
 
-- Atualização técnica e documentação do progresso no repositório [PROJETO INTEGRADOR]/(PROJETO INTEGRADOR.MD).
+- Atualização técnica e documentação do progresso no repositório [PROJETO INTEGRADOR](/PROJETO INTEGRADOR.MD).
  
