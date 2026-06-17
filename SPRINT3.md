@@ -11,8 +11,12 @@
 
 - Atualização técnica e documentação do progresso no repositório [PROJETO INTEGRADOR](/PROJETOINTEGRADOR.md).
  
-## Arquitetura da Sprint
+## Arquitetura do MVP
  - [Power BI: DAX Studio / Performance Analyzer] ──> (Otimização e Filtros Avançados)
  - [Power BI Service / GitHub] ──> (Entrega do Dashboard Fluido + Documentação)
 
    
+## Escopo do MVP
+- Redesenho e polimento do layout do dashboard, padronizando espaçamentos, cores e tipografia;]
+- Implementação da estrutura de filtros macro (visão geral por Região/Cidades) e filtros micro (visão detalhada por Bairros ou Subsetores farmacêuticos);
+- Atualização da documentação no GitHub detalhando a nova usabilidade dos filtros específicos.
