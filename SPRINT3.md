@@ -34,3 +34,9 @@
 # Anexos
 >
 <img width="885" height="721" alt="BOTAO-LIMPA_FILTROS" src="https://github.com/user-attachments/assets/afe928d4-0622-4451-b51a-db34584fbbd9" />
+
+
+<img width="1295" height="712" alt="image" src="https://github.com/user-attachments/assets/04ca59f1-0c6b-4e85-959a-febe277ca16e" />
+
+
+<img width="1248" height="728" alt="image" src="https://github.com/user-attachments/assets/9f9287f3-44c6-442d-87de-e389dd67bca1" />
