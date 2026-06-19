@@ -32,11 +32,14 @@
 - Código e documentação organizados no GitHub registrando as melhorias de performance e o layout final entregue.
 
 # Anexos
->
+## Adição do botão de "Limpar todas as segmentações"
+> Melhorar a usabilidade (UX) e a navegabilidade do dashboard. O botão permite que o usuário restaure instantaneamente o estado original do relatório, limpando todos os filtros aplicados simultaneamente, sem a necessidade de redefinir cada segmentação individualmente.
 <img width="885" height="721" alt="BOTAO-LIMPA_FILTROS" src="https://github.com/user-attachments/assets/afe928d4-0622-4451-b51a-db34584fbbd9" />
 
-
+## Visualização MICRO
+> Permitir que o usuário restrinja a análise do dashboard a um nível mais regional ou específico.
 <img width="1295" height="712" alt="image" src="https://github.com/user-attachments/assets/04ca59f1-0c6b-4e85-959a-febe277ca16e" />
 
-
+## Visualização MACRO
+> O botão "MACRO" redefine o escopo do dashboard para abranger toda a Região Metropolitana do Vale do Paraíba e Litoral Norte de forma agregada, facilitando análises macroeconômicas e comparações entre os grandes polos (como São José dos Campos X Taubaté X Jacareí).
 <img width="1248" height="728" alt="image" src="https://github.com/user-attachments/assets/9f9287f3-44c6-442d-87de-e389dd67bca1" />
