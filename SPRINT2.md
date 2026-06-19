@@ -37,4 +37,5 @@
   >Print do nosso Dashboard:
 <img width="1104" height="627" alt="novo layout" src="https://github.com/user-attachments/assets/019b04bc-ec7f-457e-ae9b-8167bee5f9dd" />
 
-
+# Para voltar ao repositório principal, clique aqui:
+## [PROJETO INTEGRADOR](/PROJETOINTEGRADOR.md)
